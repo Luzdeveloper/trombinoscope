@@ -1,0 +1,210 @@
+
+[
+    {
+        "name": "EVRARD Adrien",
+        "location": "Longfossé",
+        "coordinates": {
+            "latitude": 50.6078,
+            "longitude": 1.9407
+        },
+        "skills": ["HTML", "JS", "C#", "JAVA", "Python", "PHP", "MySQL", "CSS"],
+        "links": {
+            "github": "https://github.com/AdrienE62",
+            "linkedin": "https://www.linkedin.com/in/adrien-evrard-12b9a11b6/"
+        },
+        "hobbies": ["jeux vidéos", "musique", "anime"],
+        "quote": "S'il y a un problème, c'est à cause d'une virgule."
+    },
+    {
+        "name": "BURIDANT Camille",
+        "location": "Marquise",
+        "coordinates": {
+            "latitude": 50.8722,
+            "longitude": 1.7350
+        },
+        "skills": ["HTML", "CSS", "JS"],
+        "links": {
+            "github": "https://github.com/CamilleDev62",
+            "linkedin": "https://fr.linkedin.com/in/camille-buridant-a79506214",
+            "youtube": "https://www.youtube.com/@SalutUnivers"
+        },
+        "hobbies": ["jeux vidéo", "écriture", "cinéma", "séries", "animation", "réflexion éthique"],
+        "quote": "We are all stories in the end, just make it a good one, eh ? (11th Doctor)"
+    },
+    {
+        "name": "DAUCHART Cindy",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7244,
+            "longitude": 1.6145
+        },
+        "skills": ["HTML", "CSS", "MySQL"],
+        "links": {
+            "github": "https://github.com/cindcht"
+        },
+        "hobbies": ["sport", "jeux vidéo", "musique", "dessin"],
+        "quote": "never give up"
+    },
+    {
+        "name": "LEMOINE Doriane",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7254,
+            "longitude": 1.6145
+        },
+        "skills": ["HTML", "CSS", "JS"],
+        "links": {
+            "github": "https://github.com/Doryane24"
+        },
+        "hobbies": ["lecture", "voyages", "cinéma"],
+        "quote": "La vie est faite de couleurs, prenez votre pinceau et soyez l'artiste de votre vie."
+    },
+    {
+        "name": "LHOMEL Florian",
+        "location": "Wimereux",
+        "coordinates": {
+            "latitude": 50.7667,
+            "longitude": 1.6000
+        },
+        "skills": ["HTML", "CSS", "JS"],
+        "links": {
+            "github": "https://github.com/Luzdeveloper",
+            "linkedin": "https://www.linkedin.com/in/florian-lhomel-8995b1285/",
+            "twitch": "https://www.twitch.tv/fluztea"
+        },
+        "hobbies": ["jeux vidéos", "série", "Asie", "film", "streaming"],
+        "quote": "De l'échec résulte la victoire"
+    },
+    {
+        "name": "LAURENT Gaëtan",
+        "location": "Le Portel",
+        "coordinates": {
+            "latitude": 50.6958,
+            "longitude": 1.5764
+        },
+        "skills": ["HTML", "CSS", "JS", "JAVA"],
+        "links": {
+            "github": "https://github.com/gaetanlaurent",
+            "twitch": "https://www.twitch.tv/shad0wdark"
+        },
+        "hobbies": ["musique", "jeux vidéos", "mangas", "l'espace"],
+        "quote": "42",
+        "image":"./img/adrien.jpg"
+    },
+    {
+        "name": "DIOUF Papa Ibra",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7224,
+            "longitude": 1.6145
+        },
+        "skills": ["HTML", "CSS", "JS"],
+        "links": {
+            "github": "https://github.com/IbraDiouf",
+            "linkedin": "https://www.linkedin.com/in/papa-ibra-diouf-8b85463a/"
+        },
+        "hobbies": ["football", "lecture", "cinéma"],
+        "quote": "Je pense donc je suis"
+    },
+    {
+        "name": "LOUVET Jonathan",
+        "location": "Wimille",
+        "coordinates": {
+            "latitude": 50.7500,
+            "longitude": 1.6333
+        },
+        "skills": ["Le Léo"],
+        "links": {
+            "github": "https://github.com/Jlouvet22",
+            "linkedin": ""
+        },
+        "hobbies": ["jeux vidéos", "voyages", "football", "Histoire"],
+        "quote": "Il n'y a ni de bien, ni de mal, que seulement l'opinion que l'on a."
+    },
+    {
+        "name": "TELLIER Léo",
+        "location": "Isques",
+        "coordinates": {
+            "latitude": 50.6500,
+            "longitude": 1.6500
+        },
+        "skills": ["HTML", "CSS", "JS", "C++", "PHP"],
+        "links": {
+            "github": "https://github.com/LeoTellier62"
+        },
+        "hobbies": ["jeux vidéos", "JDR", "Japon", "cuisine"],
+        "quote": "Il en faut peu pour etre heureux"
+    },
+    {
+        "name": "ACCARY Romain",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7204,
+            "longitude": 1.6145
+        },
+        "skills": ["HTML", "CSS", "JS"],
+        "links": {
+            "github": "https://github.com/Romain-Accary"
+        },
+        "hobbies": ["sport", "codage", "jeux vidéos", "voyages", "randonnée"],
+        "quote": "Chaque échec vous rapproche un pas de plus vers le succès. Continue d'essayer 💪"
+    },
+    {
+        "name": "VAN LANCKER Steeve",
+        "location": "Samer",
+        "coordinates": {
+            "latitude": 50.6333,
+            "longitude": 1.7000
+        },
+        "skills": ["Débutant en C"],
+        "links": {
+            "github": "https://github.com/VAN-LANCKER-Steeve"
+        },
+        "hobbies": ["jeux (société, vidéos,..)", "lecture", "cinématographie", "passer du temps avec ses proches", "bricolage"],
+        "quote": "L'Homme a peur de l'inconnue, mais il avance avec ignorance."
+    },
+    {
+        "name": "BRABANT Dylan",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7257,
+            "longitude": 1.6145
+        },
+        "skills": ["HTML", "CSS"],
+        "links": {
+            "github": "https://github.com/DylanNick7"
+        },
+        "hobbies": ["Littérature", "écriture", "jeux de rôle"],
+        "quote": "Tout va pour le mieux dans le meilleur des mondes"
+    },
+    {
+        "name": "HERBEZ Nicolas",
+        "location": "Boulogne-sur-mer",
+        "coordinates": {
+            "latitude": 50.7260,
+            "longitude": 1.6145
+        },
+        "skills": ["Symfony", "Docker"],
+        "links": {
+            "github": "https://github.com/nicolas-herbez",
+            "linkedin": "https://www.linkedin.com/in/nicolas-herbez-hdf/"
+        },
+        "hobbies": ["codage", "famille", "apprenants"],
+        "quote": "C'est donner l'envie d'apprendre qui m'anime."
+    },
+    {
+        "name": "COTTREZ Rémi",
+        "location": "Arques",
+        "coordinates": {
+            "latitude": 50.7333,
+            "longitude": 2.2667
+        },
+        "skills": ["React", "CSS", "HTML"],
+        "links": {
+            "github": "https://github.com/RemyCTRZ",
+            "linkedin": "https://www.linkedin.com/in/remyco/"
+        },
+        "hobbies": ["codage", "famille et amis", "films de guerre"],
+        "quote": "N'importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre."
+    }
+]

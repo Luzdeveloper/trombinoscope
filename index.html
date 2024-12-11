@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter-trombi</title>
+    <link rel="stylesheet" href="./style/Style.css">
+</head>
+<body>
+
+    <div class="background" id="zoom-background">
+      <div class="text">Cliquez pour entrer dans l'univers<br>des développeurs Simplon</div>
+    </div>
+  
+    <script>
+      document.getElementById('zoom-background').addEventListener('click', function() {
+        this.classList.add('zoom');
+  
+        setTimeout(function() {
+          window.location.href = 'page-trombi.html';
+        }, 3000); 
+      });
+    </script>
+  
+  </body>
+</html>
